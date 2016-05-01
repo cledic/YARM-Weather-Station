@@ -17,7 +17,7 @@ The "**weather_reader.py**" script is a python library to download weather info 
 
 Then you need to run the "**serial_tst.py**" script. This script read from the serial interface the JSON string received and save a file. It print out the received JSON string.
 
-Last but not least you need to run the "**YARM_Station.py**" script. This script use python game to access the Acqua frame buffer and to make string and icons look better!
+Last but not least you need to run the "**YARM_Station.py**" script. This script use python game to access the Acqua frame buffer and to make string and icons look better! [See here] (https://www.youtube.com/watch?v=HbdsCkS3KM4) for the result!
 
 
 
