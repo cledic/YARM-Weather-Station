@@ -1,10 +1,6 @@
 # YARM-Weather-Station
 Very simple application using YARM modules and Acqua board [See here] (https://www.youtube.com/watch?v=HbdsCkS3KM4)
 
-
-[YARM and Acqua are ACME products](www.acmesystems.it)
-
-
 I use two YARM module and an Acqua LCD board for this very simple application.
 
 A remote YARM module, connected to a BME280 chip, send the temperature, humidity and pressure value.
@@ -23,6 +19,6 @@ Then you need to run the "**serial_tst.py**" script. This script read from the s
 
 Last but not least you need to run the "**YARM_Station.py**" script. This script use python game to access the Acqua frame buffer and to make string and icons look better! [See here] (https://www.youtube.com/watch?v=HbdsCkS3KM4) for the result!
 
-
+[YARM and Acqua are ACME Systems products](www.acmesystems.it)
 
 
