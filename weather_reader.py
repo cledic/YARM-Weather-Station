@@ -192,8 +192,8 @@ if __name__ == "__main__":
         else:
            _location = "Rome"
         #
-        if setKey("mfm43jxm94wdkw24ntkghz6s", "free"):
-            # weather = LocalWeather("87.22.76.169")
+        if setKey("YOUR_KEY_PLEASE", "free"):
+            # weather = LocalWeather("8.8.8.8")
             print "Location: "+_location
             weather = LocalWeather(_location)
             # Scrivo il file con le info del meteo corrente
